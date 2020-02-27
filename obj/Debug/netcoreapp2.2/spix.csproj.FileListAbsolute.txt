@@ -1,0 +1,11 @@
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.csprojAssemblyReference.cache
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.csproj.CoreCompileInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.AssemblyInfoInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.AssemblyInfo.cs
+C:\Users\Jiwon Han\desktop\coding\c#\spix\bin\Debug\netcoreapp2.2\spix.deps.json
+C:\Users\Jiwon Han\desktop\coding\c#\spix\bin\Debug\netcoreapp2.2\spix.runtimeconfig.json
+C:\Users\Jiwon Han\desktop\coding\c#\spix\bin\Debug\netcoreapp2.2\spix.runtimeconfig.dev.json
+C:\Users\Jiwon Han\desktop\coding\c#\spix\bin\Debug\netcoreapp2.2\spix.dll
+C:\Users\Jiwon Han\desktop\coding\c#\spix\bin\Debug\netcoreapp2.2\spix.pdb
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.dll
+C:\Users\Jiwon Han\desktop\coding\c#\spix\obj\Debug\netcoreapp2.2\spix.pdb
