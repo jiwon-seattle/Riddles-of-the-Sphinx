@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class Spynx {
+class Sphinx {
 
     public static Dictionary<string, string> riddleAnswer = new Dictionary<string, string>() {};
 
