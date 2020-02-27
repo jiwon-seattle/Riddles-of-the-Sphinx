@@ -17,22 +17,15 @@ This C# program allows user play a riddle game.
 | **A user is given a option that you want to play again after finishing a round** | Input: "Would you like to play again? [Yes for Y / No for N]"  | Output: "Y for a Main game", "N for exiting a game" |
 
 ## Setup/Installation Requirements
-1. Download and install Node.js from the official website.
-2. Clone this repository, https://github.com/jiwon-seattle/Doctor-Lookup.git.
-3. Use a command line/Bash to navigate to this project.
-4. Run npm install to get all dependencies.
-5. Run npm start to initiate the program.
+1. Clone this repository, https://github.com/jiwon-seattle/Riddles-of-the-Sphinx.gitt.
+3. Run this application with a command $ dotnet run. 
 
 ## Known Bugs
 * No known bugs at this time.
 
 ## Technologies Used
-* JavaScript
-* jQuery
-* Node.js
-* HTML
-* CSS
-* NPM
+* C#
+* .NET Core
 
 ## Support and contact details
 
