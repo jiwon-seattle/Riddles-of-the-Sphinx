@@ -6,7 +6,7 @@
 
 ## Description
 
-This C# program allows user play a riddle game. 
+This C# program allows a user play a riddle game. 
 
 ### Specs
 | Spec | Input | Output |
