@@ -17,7 +17,7 @@ This C# program allows user play a riddle game.
 | **A user is given a option that you want to play again after finishing a round** | Input: "Would you like to play again? [Yes for Y / No for N]"  | Output: "Y for a Main game", "N for exiting a game" |
 
 ## Setup/Installation Requirements
-1. Clone this repository, https://github.com/jiwon-seattle/Riddles-of-the-Sphinx.gitt.
+1. Clone this repository, https://github.com/jiwon-seattle/Riddles-of-the-Sphinx.git.
 3. Run this application with a command $ dotnet run. 
 
 ## Known Bugs
