@@ -65,7 +65,7 @@ class Sphinx {
             }
             else
             {
-                Console.WriteLine("Answer is not correct. You are my tomorrow breakfast");
+                Console.WriteLine("Answer is not correct. You are my tomorrow breakfast.");
             }
 
     }
