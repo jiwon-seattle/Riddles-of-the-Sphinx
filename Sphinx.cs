@@ -1,14 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-class Sphinx {
+class Spynx {
 
     public static Dictionary<string, string> riddleAnswer = new Dictionary<string, string>() {};
-
+    public static List<string> riddleList;
     static void Main()
     {
-
-
+        
       string riddleOne = "I’m tall when I’m young, and I’m short when I’m old. What am I?";
       string riddleTwo = "What has to be broken before you can use it?";
       string riddleThree = "What is full of holes but still holds water?";
@@ -24,7 +23,9 @@ class Sphinx {
       riddleAnswer.Add(riddleThree, answerThree.ToLower());
       riddleAnswer.Add(riddleFour, answerFour.ToLower());
 
+      riddleList = new List<string>(riddleAnswer.Keys);
       MainGame();
+        
     }
 
     static int RandomNumber(int num)
@@ -52,20 +53,21 @@ class Sphinx {
 
     static void Riddle()
     {
-            List<string> riddleList = new List<string>(riddleAnswer.Keys);
+
             string randomRiddle = riddleList[RandomNumber(riddleList.Count)];
             Console.WriteLine(randomRiddle);
+            Console.WriteLine("Please answer with an article [a/an/the]");
             string answerRiddle = Console.ReadLine().ToLower();
 
 
             if (riddleAnswer[randomRiddle] == answerRiddle )
             {
-                Console.WriteLine("You win!")
+                Console.WriteLine("You win!");
                 PlayAgain();
             }
             else
             {
-                Console.WriteLine("Answer is not correct. You are my tomorrow breakfast.");
+                Console.WriteLine("Answer is not correct. You are my tomorrow breakfast");
             }
 
     }
